@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [Your Name] — JavaScript Developer on a Mission
+# 👋 Hi, I'm SM Nasir Uddin — Full Stack Developer on a Mission
+
+![I'm a self-motivated,  self-taught and passionate MERN Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFEaLDHouIZHw/profile-displaybackgroundimage-shrink_350_1400/B56ZobHVVwJsAY-/0/1761391499504?e=1762992000&v=beta&t=7-0nN4TXLb4pSqcENxGGKnQ_-ZcDqbjAtfjc8gtRtU4)
 
 Welcome to my GitHub! I'm a passionate frontend developer with a growing expertise in JavaScript and React. I love building interactive web applications that are fast, responsive, and user-friendly. My journey started with vanilla JavaScript and has evolved into crafting full-stack experiences using React, Node.js, Express, Firebase, and MongoDB.
 
@@ -19,9 +21,11 @@ I've created several projects that reflect my learning and experimentation with 
 | Frontend        | Backend & Database     | Tools & Services       |
 |-----------------|------------------------|-------------------------|
 | JavaScript (ES6)| Node.js + Express (Mock & Real) | Firebase |
-| React           | MongoDB (Atlas)        | Git & GitHub |
-| Tailwind CSS    | REST APIs              | VS Code |
-| HTML & CSS      |                        | Netlify & Vercel |
+| React           | MongoDB (Atlas)        | Cloudinary  |
+| Tailwind CSS    | REST APIs              | EmailJs  |
+| HTML & CSS      | FireStore              | Git & GitHub  |
+| PHP             | MySql                  | VS Code |
+|                 |                        | Netlify & Vercel |
 
 ---
 
@@ -29,10 +33,12 @@ I've created several projects that reflect my learning and experimentation with 
 
 Here are a few highlights from my portfolio:
 
-- **🔍 Anagram Finder App** — React + Gemini AI + Dictionary API. Fast, fun, and optimized for performance.
-- **📋 Task Manager** — React + Firebase. Real-time CRUD operations with user authentication.
-- **🛒 E-commerce Demo** — Full MERN stack with MongoDB backend. Product listings, cart, and checkout flow.
-- **🎨 Portfolio Site** — Personal site built with React and Tailwind CSS, showcasing my work and journey.
+
+- **📋 Task Manager - JS (OOP Edition)** — This project was a turning point in how I approach frontend development. It taught me that writing maintainable code is just as important as making things work. I now feel more confident building scalable apps and collaborating on larger codebases.
+- **🔍 Anagram Finder App - js** — JS + Gemini AI + Dictionary API. *Anagram Finder* is a dynamic frontend application that helps users discover anagram variations of their input words, complete with dictionary definitions. Integrates Gemini AI to generate meaningful anagrams based on user input, ensuring creative and relevant results.
+- **🏪 Inventory Management App - MERN** — Full MERN stack with MongoDB backend. an inventory management web app allows users to easily track and manage their inventory, from adding new items to updating stock levels.
+- **🛒 CodeBook (E-commerce Demo) - (Frontend)** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). 
+- **🎨 Portfolio Site** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). A personal portfolio site where I showcase my works.
 
 > You can explore all my projects in the pinned section below 👇
 
@@ -40,9 +46,27 @@ Here are a few highlights from my portfolio:
 
 ## 📈 What I'm Learning Now
 
-- Performance optimization: batching, virtual DOM diffing, and minimal DOM updates.
+- Languages ans libraries: TypeScript, NextJs
+- Performance optimization: Jest Testing Library, virtual DOM diffing, and minimal DOM updates.
 - Event handling and memory management to avoid leaks and improve UX.
 - Writing clean, scalable code and documenting projects for professional presentation.
+
+---
+
+---
+
+## 📊 My Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smshiplu&hide=contribs,prs&show_icons=true&theme=radical) <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smshiplu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smshiplu&show_icons=true) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smshiplu&show_icons=true&theme=radical) -->
+
+---
+
+---
+
+## 📢 I'm in Social Media
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/smshiplu)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shiwangi-sharma-99613b1bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NasirUddinShiplu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Shiplu186011S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/4835188/shiplu)  
+
 
 ---
 
@@ -50,9 +74,9 @@ Here are a few highlights from my portfolio:
 
 I'm actively seeking opportunities to collaborate, learn, and grow. Whether you're a company looking for a curious and driven developer, or a fellow coder interested in building something cool — let's talk!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📬 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiwangi-sharma-99613b1bb)
+- 📬 [Email](mailto:nasiruddinshiplu@gmail.com)
+- 🌐 [Portfolio Website](https://smnasiruddin.vercel.app)
 
 ---
 
