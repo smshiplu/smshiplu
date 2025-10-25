@@ -1,41 +1,19 @@
-<h1 align="left">Full Stack (MERN) Web Developer (Self-Taught)</h1>
+### Hi there 👋, I'm SM Nasir Uddin — Full Stack Developer on a Mission
+#### I'm a Self-motivated and passionate MERN Stack Web Developer
+Welcome to my GitHub! I'm a passionate frontend developer with a growing expertise in JavaScript and React. I love building interactive web applications that are fast, responsive, and user-friendly. My journey started with vanilla JavaScript and has evolved into crafting full-stack experiences using React, Node.js, Express, Firebase, and MongoDB.
 
-###
+Skills: JavaScript / React / Tailwind CSS / HTML & CSS / Node.js + Express (Mock & Real) / MongoDB / REST APIs / Firebase / Cloudinary / EmailJs / Git & GitHub / VS Code  /Netlify & Vercel
 
-<p align="left">My name is Nasir Uddin Shiplu and I'm a Self-motivated and passionate MERN Stack Web Developer with a solid foundation in JavaScript, React, Node.js, Express, and MongoDB. Previously I worked  on PHP-MySql, CMS Joomla, and Wordpress but as a newcomer to the webapp  industry, I have built several beginner -level projects that demonstrate my ability to learn quickly and solve problems. Eager to contribute to a dynamic team, grow my skills, and deliver high-quality web applications.</p>
+- 🔭 I’m currently working on Study Management App 
+- 🌱 I’m currently learning NextJs, TypeScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about web development 
+- 📫 How to reach me: (+880) 1686183665 
 
-###
 
-<h2 align="left">About me</h2>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/smshiplu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sm-nasir-uddin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NasirUddinShiplu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/4835188/shiplu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://smnasiruddin.vercel.app)  
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/smshiplu)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/smshiplu&show_icons=true)  
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
