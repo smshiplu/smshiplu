@@ -35,9 +35,21 @@ Here are a few highlights from my portfolio:
 
 
 - **📋 Task Manager - JS (OOP Edition)** — This project was a turning point in how I approach frontend development. It taught me that writing maintainable code is just as important as making things work. I now feel more confident building scalable apps and collaborating on larger codebases.
+
+<br/>
+
 - **🔍 Anagram Finder App - js** — JS + Gemini AI + Dictionary API. *Anagram Finder* is a dynamic frontend application that helps users discover anagram variations of their input words, complete with dictionary definitions. Integrates Gemini AI to generate meaningful anagrams based on user input, ensuring creative and relevant results.
+
+<br/>
+
 - **🏪 Inventory Management App - MERN** — Full MERN stack with MongoDB backend. an inventory management web app allows users to easily track and manage their inventory, from adding new items to updating stock levels.
-- **🛒 CodeBook (E-commerce Demo) - (Frontend)** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). 
+
+<br/>
+
+- **🛒 CodeBook (E-commerce Demo) - (Frontend)** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend).
+
+<br/>
+
 - **🎨 Portfolio Site** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). A personal portfolio site where I showcase my works.
 
 > You can explore all my projects in the pinned section below 👇
@@ -65,7 +77,7 @@ Here are a few highlights from my portfolio:
 
 ## 📢 I'm in Social Media
 
-<div style="display:flex; align-items:center; gap: 10px" markdown="1">
+<span style="display:flex; align-items:center; gap: 10px" >
 
 [<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" viewBox="0 0 24 24">
   <path fill-rule="evenodd" d="M12.006 2a9.847 9.847 0 0 0-6.484 2.44 10.32 10.32 0 0 0-3.393 6.17 10.48 10.48 0 0 0 1.317 6.955 10.045 10.045 0 0 0 5.4 4.418c.504.095.683-.223.683-.494 0-.245-.01-1.052-.014-1.908-2.78.62-3.366-1.21-3.366-1.21a2.711 2.711 0 0 0-1.11-1.5c-.907-.637.07-.621.07-.621.317.044.62.163.885.346.266.183.487.426.647.71.135.253.318.476.538.655a2.079 2.079 0 0 0 2.37.196c.045-.52.27-1.006.635-1.37-2.219-.259-4.554-1.138-4.554-5.07a4.022 4.022 0 0 1 1.031-2.75 3.77 3.77 0 0 1 .096-2.713s.839-.275 2.749 1.05a9.26 9.26 0 0 1 5.004 0c1.906-1.325 2.74-1.05 2.74-1.05.37.858.406 1.828.101 2.713a4.017 4.017 0 0 1 1.029 2.75c0 3.939-2.339 4.805-4.564 5.058a2.471 2.471 0 0 1 .679 1.897c0 1.372-.012 2.477-.012 2.814 0 .272.18.592.687.492a10.05 10.05 0 0 0 5.388-4.421 10.473 10.473 0 0 0 1.313-6.948 10.32 10.32 0 0 0-3.39-6.165A9.847 9.847 0 0 0 12.007 2Z" clip-rule="evenodd"/>
@@ -93,7 +105,7 @@ Here are a few highlights from my portfolio:
   <path d="m6.84 14.522 8.73 1.825.369-1.755-8.73-1.825-.369 1.755Zm1.155-4.323 8.083 3.764.739-1.617-8.083-3.787-.739 1.64Zm3.372-5.481L10.235 6.08l6.859 5.704 1.132-1.362-6.859-5.704ZM15.57 17H6.655v2h8.915v-2ZM12.861 3.111l6.193 6.415 1.414-1.415-6.43-6.177-1.177 1.177Z"/>
 </svg>](https://stackoverflow.com/users/https://stackoverflow.com/users/4835188/shiplu)
 
-</div>
+</span>
 
 ---
 
