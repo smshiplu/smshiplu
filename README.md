@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SM Nasir Uddin — Full Stack Developer on a Mission
 
-![I'm a self-motivated,  self-taught and passionate MERN Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFdS9HPiDZ1WA/profile-displaybackgroundimage-shrink_350_1400/B56Zoqb7vlJoAY-/0/1761648558059?e=1767830400&v=beta&t=I4thTbbApzXmisCk111bnwNPNj8ynbNXjvefllHsdlM)
+![I'm a self-motivated,  self-taught and passionate MERN Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFdS9HPiDZ1WA/profile-displaybackgroundimage-shrink_350_1400/B56Zoqb7vlJoAY-/0/1761648558059?e=1770249600&v=beta&t=zHQlyRXFaauEVH54QoqHC5rp-cRL9TWm9uwYUnwjnI0)
 
 Welcome to my GitHub! I'm a passionate frontend developer with a growing expertise in JavaScript and React. I love building interactive web applications that are fast, responsive, and user-friendly. My journey started with vanilla JavaScript and has evolved into crafting full-stack experiences using React, Node.js, Express, Firebase, and MongoDB.
 
