@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SM Nasir Uddin — Full Stack Developer on a Mission
 
-![I'm a self-motivated,  self-taught and passionate MERN Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFdS9HPiDZ1WA/profile-displaybackgroundimage-shrink_350_1400/B56Zoqb7vlJoAY-/0/1761648558059?e=1770249600&v=beta&t=zHQlyRXFaauEVH54QoqHC5rp-cRL9TWm9uwYUnwjnI0)
+![I'm a self-motivated,  self-taught and passionate MERN Stack Web Developer](./linkedIn-banner.jpg)
 
 Welcome to my GitHub! I'm a passionate frontend developer with a growing expertise in JavaScript and React. I love building interactive web applications that are fast, responsive, and user-friendly. My journey started with vanilla JavaScript and has evolved into crafting full-stack experiences using React, Node.js, Express, Firebase, and MongoDB.
 
@@ -20,14 +20,14 @@ I've created several projects that reflect my learning and experimentation with 
 
 <div style="margin-left: auto; margin-right: auto; width: fit-content;">
 
-| Frontend        | Backend & Database     | Tools & Services       |
-|-----------------|------------------------|-------------------------|
-| JavaScript (ES6)| Node.js + Express (Mock & Real) | Firebase |
-| React           | MongoDB (Atlas)        | Cloudinary  |
-| Tailwind CSS    | REST APIs              | EmailJs  |
-| HTML & CSS      | FireStore              | Git & GitHub  |
-| PHP             | MySql                  | VS Code |
-|                 |                        | Netlify & Vercel |
+| Frontend         | Backend & Database              | Tools & Services |
+| ---------------- | ------------------------------- | ---------------- |
+| JavaScript (ES6) | Node.js + Express (Mock & Real) | Firebase         |
+| React            | MongoDB (Atlas)                 | Cloudinary       |
+| Tailwind CSS     | REST APIs                       | EmailJs          |
+| HTML & CSS       | FireStore                       | Git & GitHub     |
+| PHP              | MySql                           | VS Code          |
+|                  |                                 | Netlify & Vercel |
 
 </div>
 
@@ -38,9 +38,9 @@ I've created several projects that reflect my learning and experimentation with 
 Here are a few highlights from my portfolio:
 
 - **📋 Task Manager - JS (OOP Edition)** — This project was a turning point in how I approach frontend development. It taught me that writing maintainable code is just as important as making things work. I now feel more confident building scalable apps and collaborating on larger codebases.
-- **🔍 Anagram Finder App - js** — JS + Gemini AI + Dictionary API. *Anagram Finder* is a dynamic frontend application that helps users discover anagram variations of their input words, complete with dictionary definitions. Integrates Gemini AI to generate meaningful anagrams based on user input, ensuring creative and relevant results.
+- **🔍 Anagram Finder App - js** — JS + Gemini AI + Dictionary API. _Anagram Finder_ is a dynamic frontend application that helps users discover anagram variations of their input words, complete with dictionary definitions. Integrates Gemini AI to generate meaningful anagrams based on user input, ensuring creative and relevant results.
 - **🏪 Inventory Management App - MERN** — Full MERN stack with MongoDB backend. an inventory management web app allows users to easily track and manage their inventory, from adding new items to updating stock levels.
-- **🛒 CodeBook (E-commerce Demo) - (Frontend)** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). 
+- **🛒 CodeBook (E-commerce Demo) - (Frontend)** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend).
 - **🎨 Portfolio Site** — REACT + Tailwind CSS + NodeJs + ExpressJs (Fake backend). A personal portfolio site where I showcase my works.
 
 > You can explore all my projects in the pinned section below 👇
@@ -68,8 +68,7 @@ Here are a few highlights from my portfolio:
 
 ## 📢 I'm in Social Media
 
-[<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smshiplu)    [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sm-nasir-uddin)  [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NasirUddinShiplu/)  [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/Shiplu186011S)  [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4835188/shiplu)  
-
+[<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smshiplu) [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sm-nasir-uddin) [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NasirUddinShiplu/) [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/Shiplu186011S) [<img style="margin: 0 6px" width="40" height="40" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4835188/shiplu)
 
 ---
 
